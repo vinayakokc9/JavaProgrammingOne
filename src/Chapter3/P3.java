@@ -4,10 +4,9 @@ import java.util.Scanner;
 
 /**
  * Program to display whether a number given by the user is greater than, less
- * than, or equal to another number, if the first
- * number/second number is a proper or improper fraction, the
- * first number's grade, if the second number is between 0 and
- * 100
+ * than, or equal to another number, if the first number/second number is a
+ * proper or improper fraction, the first number's grade, if the second number
+ * is between 0 and 100
  *
  * @author Vinayak Gopakumar
  */
