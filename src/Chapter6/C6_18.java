@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Chapter6;
 
 import java.util.Scanner;
@@ -34,7 +29,12 @@ public class C6_18 {
     }
 
     public static boolean isValid(String p) {
-
+/**
+     * IsValid Method
+     *
+     * @param p the password
+     * @return tells if password is valid or not using boolean
+     */
 // Must have 8 characters
         if (p.length() < 8) {
             System.out.println("A password must have at least 8 characters");
