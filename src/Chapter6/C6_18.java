@@ -27,14 +27,14 @@ public class C6_18 {
             System.out.println("Invalid password");
         }
     }
-
-    public static boolean isValid(String p) {
 /**
      * IsValid Method
      *
      * @param p the password
      * @return tells if password is valid or not using boolean
      */
+    public static boolean isValid(String p) {
+
 // Must have 8 characters
         if (p.length() < 8) {
             System.out.println("A password must have at least 8 characters");
