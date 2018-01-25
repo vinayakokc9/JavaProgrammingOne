@@ -27,7 +27,8 @@ public class C6_18 {
             System.out.println("Invalid password");
         }
     }
-/**
+
+    /**
      * IsValid Method
      *
      * @param p the password
