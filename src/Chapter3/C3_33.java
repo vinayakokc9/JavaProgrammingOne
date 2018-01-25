@@ -8,12 +8,12 @@ import java.util.Scanner;
  * @author Vinayak Gopakumar
  */
 public class C3_33 {
-/**
+
+    /**
      * Main Method
      *
      * @param args arguments from command line prompt
      */
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
